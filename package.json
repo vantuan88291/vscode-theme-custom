@@ -1,0 +1,22 @@
+{
+	"name": "vscode-theme-tuan88291",
+	"displayName": "TUAN88291 Theme",
+	"description": "Documentation inspired theme",
+	"version": "1.0.0",
+	"publisher": "tuan88291",
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tuan88291 Theme",
+				"uiTheme": "vs",
+				"path": "./themes/tuan88291.json"
+			}
+		]
+	}
+}
